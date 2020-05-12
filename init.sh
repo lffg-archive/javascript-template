@@ -12,7 +12,7 @@ yarn add \
 
 rm ./init.sh ./README.md
 
-git add ./package.json
+git add ./package.json ./yarn.lock
 git commit -m "Install dependencies"
 
 git add ./init.sh ./README.md
